@@ -17,4 +17,4 @@ Links:
   * [Good Reads](https://www.goodreads.com/)
   * [Open.School](https://open.school)
   * [Causal Data Science with Directed Acyclic Graphs](https://www.udemy.com/course/causal-data-science/)
-  * [The Open University](https://open.edu)
+  * [The Open University](https://www.open.edu)
