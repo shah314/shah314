@@ -11,7 +11,7 @@ I am [available on Upwork](https://www.upwork.com/freelancers/~01fb949a480cd7fa5
 * Recommender Systems
 * Game Theory
 * Technical Writing
-* Optimization, LP, Heuristics
+* Optimization, LP, MIP, Heuristics
 * Machine Learning and Deep Learning
 * Natural Language Processing and Understanding
 * Computer Vision and Object Recognition/Tracking
