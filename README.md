@@ -4,7 +4,17 @@ Hello! I am an experienced AI, Mathematics and Statistics Scientist, with more t
 
 I am currently working at [Anvai](https://anvai.ai) as a Founding Scientist. Previously, I worked at Target (Principal Scientist) and Microsoft Bing (Research Engineer).
 
-I am [available on Upwork](https://www.upwork.com/freelancers/~01fb949a480cd7fa53) for Consulting, Custom Projects on LLMs, Generative AI, Game Theory, Computer Science, Technical Writing, Optimization, Machine Learning, Deep Learning, NLP/NLU, Computer Vision, Forecasting and Finance.
+I am [available on Upwork](https://www.upwork.com/freelancers/~01fb949a480cd7fa53) for Consulting and Custom Projects on:
+* LLMs and Generative AI
+* Recommender Systems
+* Game Theory
+* Technical Writing
+* Optimization, LP, Heuristics
+* Machine Learning and Deep Learning
+* Natural Language Processing and Understanding
+* Computer Vision and Object Recognition/Tracking
+* Finance and Time Series Forecasting
+* Computer Science and Software Engineering
 
 [Here](https://www.linkedin.com/in/shalinshah) is my LinkedIn Profile.
 
