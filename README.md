@@ -6,18 +6,6 @@ I have graduate education in mathematics (JHU), statistics (JHU), computer scien
 
 I am currently working at [Anvai](https://anvai.ai) as a Founding Scientist. Previously, I worked at Target (Principal Scientist) and Microsoft Bing (Research Engineer).
 
-I am [available on Upwork](https://www.upwork.com/freelancers/~01fb949a480cd7fa53) for Consulting and Custom Projects on:
-* LLMs and Generative AI
-* Recommender Systems
-* Game Theory
-* Technical Writing
-* Optimization, LP, MIP, Heuristics
-* Machine Learning and Deep Learning
-* Natural Language Processing and Understanding
-* Computer Vision, Object Detection and Tracking
-* Finance and Time Series Forecasting
-* Computer Science and Software Engineering
-
 [Here](https://www.linkedin.com/in/shalinshah) is my LinkedIn Profile.
 
 [Here](https://orcid.org/0000-0002-3770-1391) is my ORCID page, and [here](https://scholar.google.com/citations?hl=en&user=zsqGGLQAAAAJ) is my Google Scholar page.
