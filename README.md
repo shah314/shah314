@@ -8,8 +8,6 @@ I am currently working at [Anvai](https://anvai.ai) as a Founding Scientist. Pre
 
 [Here](https://www.linkedin.com/in/shalinshah) is my LinkedIn Profile.
 
-[Here](https://orcid.org/0000-0002-3770-1391) is my ORCID page, and [here](https://scholar.google.com/citations?hl=en&user=zsqGGLQAAAAJ) is my Google Scholar page.
-
 Links:
   * [Anvai AI](https://anvai.ai)
   * [Social and Economic Networks - Stanford Online on Coursera](https://www.coursera.org/learn/social-economic-networks)
