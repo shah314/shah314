@@ -8,6 +8,8 @@ I am currently working at [Anvai](https://anvai.ai) as a Founding Scientist. Pre
 
 [Here](https://www.linkedin.com/in/shalinshah) is my LinkedIn Profile.
 
+If you need custom work, please use [Upwork](https://www.upwork.com/freelancers/shalinshah)
+
 Links:
   * [Anvai AI](https://anvai.ai)
   * [Social and Economic Networks - Stanford Online on Coursera](https://www.coursera.org/learn/social-economic-networks)
