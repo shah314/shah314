@@ -15,6 +15,4 @@ Links:
   * [Causal Data Science with Directed Acyclic Graphs](https://www.udemy.com/course/causal-data-science/)
   * [The Open University](https://www.open.ac.uk)
   * [Luxury Homes For Sale](https://luxuryhomes.forsale)
-  * [California Department of Real Estate](https://www.dre.ca.gov)
   * [Staffing Services Near Me](https://staffing.services)
-  * [Zip Recruiter](https://www.ziprecruiter.com)
