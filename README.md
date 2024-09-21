@@ -14,5 +14,3 @@ Links:
   * [Open.School](https://open.school)
   * [Causal Data Science with Directed Acyclic Graphs](https://www.udemy.com/course/causal-data-science/)
   * [The Open University](https://www.open.ac.uk)
-  * [Luxury Homes For Sale](https://luxuryhomes.forsale)
-  * [Staffing Services Near Me](https://staffing.services)
