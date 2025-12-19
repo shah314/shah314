@@ -2,6 +2,8 @@
 
 I currently work at [Anvai](https://anvai.ai) as a Founding Scientist. Previously, I worked at Target (Principal Scientist) and Microsoft Bing (Research Engineer).
 
+If you need custom work, please find me on Upwork: [Upwork Profile](https://www.upwork.com/freelancers/shalinshah)
+
 Links:
   * [Anvai AI](https://anvai.ai)
   * [Social and Economic Networks - Stanford Online on Coursera](https://www.coursera.org/learn/social-economic-networks)
